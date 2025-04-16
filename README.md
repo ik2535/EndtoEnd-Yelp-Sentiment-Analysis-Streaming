@@ -355,3 +355,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Thanks to OpenAI for providing the GPT models.
 - Bitnami for the Dockerized Spark images.
 - Confluent for Kafka and Schema Registry.
+- This project was done in team with Tanmay and Anish. Thanks to both
